@@ -1,0 +1,40 @@
+#h1 {
+  font-family: 'Inconsolata', monospace;
+  font-size: 34px;
+  text-align: center;
+}
+
+#h2 {
+  font-family: 'Inconsolata', monospace;
+  font-size: 26px;
+  text-align: center;
+}
+
+.hometext {
+  font-family: 'Inconsolata', monospace;
+  font-size: 22px;
+}
+
+.tbtn {
+  font-family: 'Inconsolata', monospace;
+  font-size: 19px;
+}
+
+.slide_title {
+  font-family: 'Inconsolata', monospace;
+  font-size: 30px;
+  text-align: left;
+}
+
+.page_title {
+  font-family: 'Inconsolata', monospace;
+  text-align: left;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.text {
+  font-family: 'Inconsolata', monospace;
+  text-align: left;
+  font-size: 18px;
+}
